@@ -1,0 +1,5 @@
+IP = 127.0.0.1
+PORTA = 3306
+BANCO_DE_DADOS = projeto_pesquisa
+USUARIO_BD = root
+SENHA_BD = root
